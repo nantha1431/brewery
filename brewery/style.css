@@ -1,0 +1,68 @@
+
+/* Setting the margin */
+
+#cards{
+    margin:auto;
+    border-radius: 10px;
+}
+
+/* Setting the text alignment to left */
+
+#cards{
+    text-align:left;
+    border-radius: 40px;
+}
+
+/* Centering the text */
+
+.main{
+    text-align: center;
+    border-radius: 15px;
+}
+
+/* Setting the width of the search bar */
+
+#search{
+    width: fit-content;
+    border-radius: 5px;
+}
+
+#search:hover{
+    transform: scale(1.5);
+}
+
+/* Setting the height of the main1 div */
+
+#main1{
+    height:55px;
+    border-radius: 30px;
+}
+
+/* Setting the background color of the body */
+
+#bodys{
+    
+    background-color: rgb(11, 206, 132);
+    border-radius: 15px;
+    
+}
+
+/* Making the cards bigger when you hover over them.*/
+
+.carrs:hover{
+    transform: scale(1.05);
+}
+
+/* Making the button bigger when you hover over it. */
+
+.btn:hover{
+    transform: scale(1.15);
+
+}
+
+/* Setting the background color of the main2 div */
+
+.main2{
+    background-color: rgba(231, 127, 17, 0.868);
+    border-radius: 10px;
+}
